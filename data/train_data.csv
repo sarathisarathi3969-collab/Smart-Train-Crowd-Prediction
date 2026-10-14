@@ -1,0 +1,7 @@
+train_number,train_name,source,destination,day,month,holiday,total_seats,booked_seats
+12673,Chennai Express,Chennai,Coimbatore,Monday,June,No,1200,650
+12673,Chennai Express,Chennai,Coimbatore,Friday,June,No,1200,980
+12673,Chennai Express,Chennai,Coimbatore,Saturday,June,Yes,1200,1150
+12674,Coimbatore Express,Coimbatore,Chennai,Monday,July,No,1200,500
+12674,Coimbatore Express,Coimbatore,Chennai,Friday,July,No,1200,900
+12674,Coimbatore Express,Coimbatore,Chennai,Sunday,July,Yes,1200,1100
